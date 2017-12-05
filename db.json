@@ -1,0 +1,52 @@
+[{
+	"id": "clientes",
+	"name": "Clientes",
+	"url": "http://localhost:4200/template1.html",
+	"type": "template",
+	"data": {
+		"message": "Listado de clientes"
+	}
+}, {
+	"id": "cuestionarios",
+	"name": "Cuestionarios",
+	"url": "http://localhost:4200/cuestionarios.html",
+	"type": "template"
+}, {
+	"id": "ejecutvios",
+	"name": "Ejecutivos",
+	"url": "http://localhost:4200/ejecutivos.html",
+	"type": "template"
+}, {
+	"id": "rentabilidad",
+	"name": "Rentabilidad",
+	"url": "http://localhost:4200/rentabilidad.html",
+	"type": "template"
+}, {
+	"id": "saldosClientes",
+	"name": "Saldos clientes",
+	"url": "http://localhost:4200/template1.html",
+	"type": "menu"
+}, {
+	"id": "saldosEjecutivos",
+	"name": "Saldos ejecutivo",
+	"url": "http://localhost:4200/template2.html",
+	"type": "menu"
+}, {
+	"id": "saldosTotales",
+	"name": "Saldos totales",
+	"url": "http://localhost:4200/template3.html",
+	"type": "menu"
+}, {
+	"id": "detalleSaldo",
+	"name": "Detalle saldos",
+	"url": "http://localhost:4200/detallesaldopanel.html",
+	"type": "template",
+	"data": {
+		"title": "Detalle saldos"
+	}
+}, {
+	"id": "consolidado",
+	"name": "Consolidado",
+	"url": "http://localhost:4200/consolidado.html",
+	"type": "template"
+}]
